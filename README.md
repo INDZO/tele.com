@@ -1,6 +1,6 @@
 # Tele.com
 
-**Early web-design project · HTML, CSS and JavaScript**
+**University Web Design project · HTML, CSS and JavaScript**
 
 A multi-page telecom website prototype with service pages, package browsing, contact screens, and browser-side account views.
 
